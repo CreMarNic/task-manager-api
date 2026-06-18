@@ -13,7 +13,7 @@
     </parent>
     
     <groupId>com.marius</groupId>
-    <artifactId>task-api</artifactId>
+    <artifactId>task-manager-api</artifactId>
     <version>1.0.0</version>
     <name>Task Management API</name>
     <description>RESTful API for Task Management with Spring Boot</description>

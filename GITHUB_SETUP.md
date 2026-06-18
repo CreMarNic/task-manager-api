@@ -18,7 +18,7 @@ After creating the repository, GitHub will show you commands. Use these:
 ### Option A: If repository is empty (recommended)
 
 ```bash
-cd C:\Users\crema\Marius_page\task-api
+cd C:\Users\crema\Marius_page\task-manager-api
 git remote add origin https://github.com/YOUR_USERNAME/task-management-api.git
 git branch -M main
 git push -u origin main
@@ -86,7 +86,7 @@ For this project, the current `application.properties` is safe for public repos 
 To push future changes:
 
 ```bash
-cd C:\Users\crema\Marius_page\task-api
+cd C:\Users\crema\Marius_page\task-manager-api
 git add .
 git commit -m "Your commit message"
 git push

@@ -1,6 +1,6 @@
-# Task Management REST API
+# task-manager-api
 
-A comprehensive RESTful API for task management built with Spring Boot, featuring JWT authentication, user management, and full CRUD operations for tasks.
+task-manager-api is a comprehensive RESTful API for task management built with Spring Boot, featuring JWT authentication, user management, and full CRUD operations for tasks.
 
 ## 🚀 Features
 
@@ -36,7 +36,7 @@ A comprehensive RESTful API for task management built with Spring Boot, featurin
 
 ```bash
 git clone <your-repo-url>
-cd task-api
+cd task-manager-api
 ```
 
 ### 2. Database Setup
@@ -251,7 +251,7 @@ curl -X POST http://localhost:8080/api/tasks \
 ## 📁 Project Structure
 
 ```
-task-api/
+task-manager-api/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/marius/taskapi/
