@@ -327,7 +327,9 @@ This project is open source and available for portfolio purposes.
 ## 👤 Author
 
 **Marius Cretu**
-
+Portfolio: https://cremarnic.github.io/Portfolio/
+GitHub: https://github.com/CreMarNic
+LinkedIn: https://www.linkedin.com/in/marius14cretu/
 
 
 Built with ❤️ using Spring Boot
