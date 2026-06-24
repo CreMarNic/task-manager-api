@@ -327,11 +327,8 @@ This project is open source and available for portfolio purposes.
 ## 👤 Author
 
 **Marius Cretu**
-- Portfolio: [Your Portfolio URL]
-- GitHub: [Your GitHub]
-- LinkedIn: [Your LinkedIn]
 
----
+
 
 Built with ❤️ using Spring Boot
 
